@@ -1,0 +1,14 @@
+<resources>
+    <declare-styleable name="PolygonDataView">
+        <attr name="vertexType" format="enum">
+            <enum name="sharp" value="0" />
+            <enum name="curved" value="1" />
+        </attr>
+        <attr name="color" format="color" />
+        <attr name="strokeColor" format="color" />
+        <attr name="highlightColor" format="color" />
+        <attr name="highlightStrokeColor" format="color" />
+        <attr name="strokeWidth" format="dimension" />
+        <attr name="highlightStrokeWidth" format="dimension" />
+    </declare-styleable>
+</resources>
