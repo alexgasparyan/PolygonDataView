@@ -11,16 +11,6 @@ Simple android `View` which draws charts based on given data points. The view is
 
 ## Usage ##
 
-Add maven url in app level gradle file:
-
-```gradle
-repositories {
-      maven {
-          url 'https://armdroid.bintray.com/android/'
-      }
-}
-```
-
 Add dependency in app module gradle file:
 
 ```gradle
