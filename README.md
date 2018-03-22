@@ -29,7 +29,7 @@ Add the view in your `Activity` layout:
          polygon:strokeWidth="0dp"
          polygon:highlightColor="@color/colorLightBlue"
          polygon:highlightStrokeColor="@color/colorDarkBlue"
-         polygon:highlightStrokeWidth="0dp" />
+         polygon:highlightStrokeWidth="2dp" />
 ```
 
 * There are two values for `polygon:vertexType`
